@@ -12,7 +12,7 @@ Kualitas perangkat lunak merupakan faktor krusial dalam kesuksesan sebuah produk
 ### **1. Alat Pengujian (*Testing Tools*)**
 Agar perangkat lunak bebas dari bug dan berjalan sesuai harapan, berbagai alat pengujian digunakan untuk mengidentifikasi dan memperbaiki masalah sejak dini.
 
-**<img src="https://seeklogo.com/images/K/katalon-icon-logo-31C98AC16C-seeklogo.com.png" width="20" /> [Katalon](https://katalon.com/)**
+**<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Katalon-logo-png.png" width="20" /> [Katalon](https://katalon.com/)**
 Alat otomatisasi pengujian berbasis UI yang mendukung pengujian web, API, mobile, dan desktop dengan fitur drag-and-drop serta skrip berbasis kode yang mudah digunakan oleh pengguna teknis maupun non-teknis.
 
 **<img src="https://img.icons8.com/?size=512&id=38553&format=png" width="20" /> [Selenium](https://www.selenium.dev/)**
