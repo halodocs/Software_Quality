@@ -6,7 +6,7 @@ Kualitas perangkat lunak merupakan faktor krusial dalam kesuksesan sebuah produk
 Artikel ini akan membahas berbagai alat pengujian, manajemen proyek, metodologi pengembangan, serta proses yang mendukung pencapaian kualitas perangkat lunak yang tinggi.
 
 ## Pembahasan
-### **1. Alat Pengujian (_Testing Tools_)**
+### @icon-info-circle **1. Alat Pengujian (_Testing Tools_)**
 Agar perangkat lunak bebas dari bug dan berjalan sesuai harapan, berbagai alat pengujian digunakan untuk mengidentifikasi dan memperbaiki masalah sejak dini.
 - **Katalon** 
     Alat otomatisasi pengujian berbasis UI yang mendukung pengujian web, API, mobile, dan desktop dengan fitur drag-and-drop serta skrip berbasis kode yang mudah digunakan oleh pengguna teknis maupun non-teknis.  
