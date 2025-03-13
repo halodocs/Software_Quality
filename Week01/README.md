@@ -54,10 +54,10 @@ Kerangka kerja Agile yang digunakan untuk pengembangan perangkat lunak yang berf
 ### **4. Proses Pengembangan Perangkat Lunak (*Software Development Process*)**
 Proses pengembangan yang baik membantu memastikan bahwa perangkat lunak memenuhi kebutuhan pengguna dengan fitur yang stabil dan aman.
 
-**<img src="https://seeklogo.com/images/S/seller-representative-specialist-srs-logo-D3A4718EB2-seeklogo.com.png" width="20" /> System Requirement Selection**
+**System Requirement Selection (SRS)**
 Proses identifikasi, analisis, dan dokumentasi kebutuhan sistem yang mencakup fungsionalitas, kinerja, dan batasan teknis yang diperlukan dalam pengembangan perangkat lunak.
 
-**<img src="https://img.icons8.com/?size=512&id=85036&format=png" width="20" /> User Acceptance Testing (UAT)**
+**User Acceptance Testing (UAT)**
 Tahap akhir dalam pengujian perangkat lunak di mana pengguna akhir atau klien memverifikasi bahwa aplikasi sesuai dengan kebutuhan yang telah ditentukan sebelum peluncuran resmi.
 
 ---
